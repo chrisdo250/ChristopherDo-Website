@@ -1,3 +1,4 @@
+![Screenshot of Website](img/screenshot2.png)
 <!DOCTYPE html>
 <html lang="en">
 
@@ -198,3 +199,4 @@
 </body>
 
 </html>
+
